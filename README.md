@@ -1,64 +1,67 @@
-<h1 align="center">Hi 👋, I'm Chit Naing</h1>
+# <div align="center">
 
-<h3 align="center">
-AI Developer | Full Stack Developer | Computer Science Student
-</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:1E3A8A,100:3B82F6&text=CHIT%20NAING&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
-<p align="center">
-Building AI-powered business solutions, automation systems, and modern web applications.
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=1000&lines=AI+Developer;Full+Stack+Engineer;Building+AI+Solutions+for+Business;Computer+Science+Student;Future+Software+Architect"/>
 
-<p align="center">
-<a href="https://chit-naing-portfolio.vercel.app/">🌐 Portfolio</a> •
-<a href="https://github.com/Chen-maker-pen">💻 GitHub</a> •
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">🔗 LinkedIn</a> •
-<a href="mailto:YOUR_EMAIL@gmail.com">📧 Email</a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=Chen-maker-pen&label=Profile%20Views&color=3b82f6&style=for-the-badge"/>
+
+</div>
 
 ---
 
-# 🚀 About Me
+# 💫 About Me
 
-```yaml
-Name: Chit Naing
-Location: Kuala Lumpur, Malaysia
-Role: AI Developer & Software Engineer
-Education: Computer Science Student
-Current Company: MOCOF
+```typescript
+const chitNaing = {
+    role: "Software Engineer",
+    company: "MOCOF",
+    location: "Malaysia 🇲🇾",
+    education: "Computer Science Student",
+    
+    currentlyBuilding: [
+        "AI Business Solutions",
+        "Quotation Automation Systems",
+        "AI Chatbots",
+        "Web Applications"
+    ],
+
+    currentlyLearning: [
+        "Machine Learning",
+        "React Native",
+        "Cloud Computing",
+        "System Design"
+    ],
+
+    goal: "Become a World-Class Software Engineer"
+}
 ```
 
-- 🔭 Currently working on AI Business Solutions
-- 🤖 Developing AI Chatbots & Automation Systems
-- 🌱 Learning Machine Learning, Mobile Development & Cloud Computing
-- 📚 Former Library Assistant at Mandalay Technological University
-- 🎯 Goal: Become a Full-Stack AI Software Engineer
-- 💡 Passionate about solving business problems through technology
-
 ---
 
-# 🎯 Current Focus
+# 🚀 Current Mission
 
 <table>
 <tr>
-<td>
+<td width="50%">
 
-### Building
+### 🤖 Building
 
-- AI Chatbots
-- Business Automation Tools
-- Web Applications
-- AI Integrations
+* MOCOF AI Chatbot
+* Chinese Quotation Converter
+* NEXUS AI Career Platform
+* Business Automation Systems
 
 </td>
 
-<td>
+<td width="50%">
 
-### Learning
+### 📚 Learning
 
-- Machine Learning
-- React Native
-- System Design
-- Cloud Technologies
+* Machine Learning
+* Mobile Development
+* Cloud Architecture
+* Software Engineering
 
 </td>
 </tr>
@@ -68,24 +71,19 @@ Current Company: MOCOF
 
 # 🏆 Featured Projects
 
-## 🤖 Mocof AI Chatbot
+## 🤖 MOCOF AI Chatbot
 
-AI-powered customer support chatbot built using Botpress.
+AI-powered customer support automation system built using Botpress.
 
-### Problem
+### Key Features
 
-Customers repeatedly ask the same questions.
+✔ Product Recommendation
 
-### Solution
+✔ Customer Support Automation
 
-Developed an AI chatbot capable of answering product inquiries, providing recommendations, and automating customer support.
+✔ Knowledge Base Search
 
-### Technologies
-
-- Botpress
-- AI Automation
-- Knowledge Base
-- Customer Support Systems
+✔ Business Workflow Integration
 
 ---
 
@@ -93,88 +91,73 @@ Developed an AI chatbot capable of answering product inquiries, providing recomm
 
 Smart quotation conversion platform.
 
-### Problem
+### Key Features
 
-Suppliers send quotations in different formats.
+✔ Excel Processing
 
-### Solution
+✔ Automated Data Conversion
 
-Built a system that automatically converts supplier quotations into standardized company quotations.
+✔ Editable Output Interface
 
-### Technologies
-
-- React
-- Node.js
-- Excel Processing
-- Automation
+✔ Business Workflow Optimization
 
 ---
 
-## 🏠 AI Whole House Design Assistant
+## 🌌 NEXUS AI
+
+Future Career Operating System.
+
+### Vision
+
+Connecting talent and opportunity through artificial intelligence.
+
+### Features
+
+✔ AI Career Matching
+
+✔ Skills Assessment
+
+✔ Resume Intelligence
+
+✔ Career Roadmapping
+
+---
+
+## 🏠 AI Interior Design Assistant
 
 AI-powered interior design recommendation platform.
 
 ### Features
 
-- Design recommendations
-- Product matching
-- Cost estimation
-- Customer consultation support
+✔ Design Suggestions
+
+✔ Product Matching
+
+✔ Budget Estimation
+
+✔ Customer Consultation
 
 ---
 
-## 🎬 AI Cinematic Story Generator
-
-AI content generation workflow for YouTube storytelling.
-
-### Features
-
-- Prompt Engineering
-- Scene Generation
-- Story Planning
-- AI Automation
-
----
-
-# 🛠 Technology Stack
-
-## Languages
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,javascript,c,cs" />
-</p>
-
-## Frontend
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,react,vue" />
-</p>
-
-## Backend
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,firebase,mysql" />
-</p>
-
-## Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,electron,photoshop,vscode" />
-</p>
-
----
-
-# 📈 Engineering Metrics
+# ⚙️ Technology Stack
 
 <div align="center">
 
-| Metric | Value |
-|----------|----------|
-| AI Projects | 5+ |
-| Software Projects | 15+ |
-| GitHub Repositories | 30+ |
-| Years Learning Programming | 3+ |
-| Technologies Learned | 15+ |
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,cs"/>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue"/>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mysql"/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,electron"/>
 
 </div>
 
@@ -182,67 +165,109 @@ AI content generation workflow for YouTube storytelling.
 
 # 📊 GitHub Analytics
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Chen-maker-pen&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chen-maker-pen&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chen-maker-pen&theme=tokyonight&hide_border=true"/>
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chen-maker-pen&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chen-maker-pen&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-# 🏗 Architecture Mindset
+# 🔥 Contribution Streak
 
-### AI Chatbot Workflow
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chen-maker-pen&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chen-maker-pen&theme=github-compact"/>
+
+</div>
+
+---
+
+# 🏅 Achievement Wall
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Chen-maker-pen&theme=algolia&no-frame=true&column=4"/>
+
+</div>
+
+---
+
+# 📋 Engineering Metrics
+
+<div align="center">
+
+| Metric                 | Value      |
+| ---------------------- | ---------- |
+| 🤖 AI Projects         | 5+         |
+| 💻 Software Projects   | 15+        |
+| 📚 Technologies        | 20+        |
+| 🚀 Active Repositories | 30+        |
+| 🌱 Learning Focus      | AI & Cloud |
+
+</div>
+
+---
+
+# 🏗 Software Architecture Mindset
 
 ```text
 Customer
     │
     ▼
-Botpress AI
+Frontend
     │
     ▼
-Knowledge Base
+Backend API
     │
     ▼
-Recommendation Engine
+Database
     │
     ▼
-Response Generation
+AI Services
     │
     ▼
-Customer
+Business Logic
 ```
 
 ---
 
-# 📚 Learning Roadmap 2026
+# 🎯 2026 Roadmap
 
-- [x] Java Fundamentals
-- [x] Web Development
-- [x] Database Management
-- [x] AI Chatbot Development
-- [ ] React Native
-- [ ] Machine Learning
-- [ ] AWS Cloud
-- [ ] System Design
-- [ ] Open Source Contributions
+* [x] Web Development
+* [x] Database Systems
+* [x] AI Chatbot Development
+* [x] Business Automation
+* [ ] Machine Learning
+* [ ] React Native
+* [ ] AWS Certification
+* [ ] Open Source Contributions
+* [ ] System Design Mastery
 
 ---
 
-# 💼 Professional Experience
+# 💼 Experience
 
 ## MOCOF
 
 ### IT Support
 
-- Website maintenance
-- Technical troubleshooting
-- AI chatbot implementation
-- Business process automation
-- Customer support systems
+* AI Chatbot Implementation
+* Technical Support
+* Website Maintenance
+* Business Process Automation
 
 ---
 
@@ -250,27 +275,15 @@ Customer
 
 ### Library Assistant
 
-- Library operations
-- Resource management
-- Student support
-- Information organization
+* Resource Management
+* Information Organization
+* Student Support
 
 ---
 
-# 🌟 Open Source Goals
+# 🌍 Connect With Me
 
-2026 Objectives
-
-- Contribute to Open Source Projects
-- Build Public Software Tools
-- Share Technical Knowledge
-- Collaborate with Developers Worldwide
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/Chen-maker-pen">
 <img src="https://skillicons.dev/icons?i=github"/>
@@ -284,32 +297,24 @@ Customer
 <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-# ⚡ Currently Building
+# 🐍 Contribution Snake
 
-```javascript
-const chitNaing = {
-  role: "AI Developer",
-  company: "MOCOF",
-  learning: [
-    "Machine Learning",
-    "Mobile Development",
-    "Cloud Computing"
-  ],
-  interests: [
-    "Artificial Intelligence",
-    "Business Automation",
-    "Full Stack Development"
-  ],
-  status: "Building real-world software solutions 🚀"
-};
+```md
+![Snake animation](https://github.com/Chen-maker-pen/Chen-maker-pen/blob/output/github-contribution-grid-snake.svg)
 ```
 
 ---
 
-<p align="center">
+<div align="center">
+
+### "Building AI Solutions That Solve Real Business Problems"
+
 ⭐ Thanks for visiting my profile!
-</p>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0F172A,50:1E3A8A,100:3B82F6"/>
