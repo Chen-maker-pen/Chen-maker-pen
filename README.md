@@ -1,260 +1,127 @@
-# <div align="center">
+<!-- =============================== -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:1E3A8A,100:3B82F6&text=CHIT%20NAING&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+<!--            HERO                -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=1000&lines=AI+Developer;Full+Stack+Engineer;Building+AI+Solutions+for+Business;Computer+Science+Student;Future+Software+Architect"/>
+<!-- =============================== -->
 
-<img src="https://komarev.com/ghpvc/?username=Chen-maker-pen&label=Profile%20Views&color=3b82f6&style=for-the-badge"/>
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0A192F,50:112240,100:1E3A8A&text=CHIT%20NAING&fontColor=00FFB3&fontSize=65&animation=fadeIn"/>
+</p>
 
-</div>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=00FFB3&center=true&vCenter=true&width=900&lines=Software+Engineer;Full-Stack+Developer;Building+Scalable+Systems;Clean+Code+Advocate"/>
+</p>
 
----
+<p align="center">
 
-# 💫 About Me
+<a href="https://chit-naing-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-39FF14?style=for-the-badge&logo=vercel&logoColor=black"/>
+</a>
 
-```typescript
-const chitNaing = {
-    role: "Software Engineer",
-    company: "MOCOF",
-    location: "Malaysia 🇲🇾",
-    education: "Computer Science Student",
-    
-    currentlyBuilding: [
-        "AI Business Solutions",
-        "Quotation Automation Systems",
-        "AI Chatbots",
-        "Web Applications"
-    ],
+<a href="https://github.com/Chen-maker-pen">
+<img src="https://img.shields.io/badge/💻_GitHub-Profile-39FF14?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
 
-    currentlyLearning: [
-        "Machine Learning",
-        "React Native",
-        "Cloud Computing",
-        "System Design"
-    ],
+<img src="https://img.shields.io/badge/Profile_Views-Active-39FF14?style=for-the-badge&logo=github&logoColor=black"/>
 
-    goal: "Become a World-Class Software Engineer"
-}
-```
+</p>
 
 ---
 
-# 🚀 Current Mission
+# 👋 About Me
 
-<table>
-<tr>
-<td width="50%">
+Software Engineer based in Malaysia 🇲🇾
 
-### 🤖 Building
+I enjoy building software products, automation systems, and modern web applications that solve real-world business challenges.
 
-* MOCOF AI Chatbot
-* Chinese Quotation Converter
-* NEXUS AI Career Platform
-* Business Automation Systems
+### Currently Focused On
 
-</td>
-
-<td width="50%">
-
-### 📚 Learning
-
-* Machine Learning
-* Mobile Development
-* Cloud Architecture
-* Software Engineering
-
-</td>
-</tr>
-</table>
+* Full Stack Development
+* Software Architecture
+* System Design
+* Cloud Technologies
+* Open Source Learning
 
 ---
 
-# 🏆 Featured Projects
+# 🚀 Featured Projects
 
-## 🤖 MOCOF AI Chatbot
+<p align="center">
 
-AI-powered customer support automation system built using Botpress.
+<a href="https://github.com/Chen-maker-pen/chinese-quotation-converter">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Chen-maker-pen&repo=chinese-quotation-converter&theme=chartreuse-dark"/>
+</a>
 
-### Key Features
+<a href="https://github.com/Chen-maker-pen/MOCOF_ai_chatbot">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Chen-maker-pen&repo=MOCOF_ai_chatbot&theme=chartreuse-dark"/>
+</a>
 
-✔ Product Recommendation
+</p>
 
-✔ Customer Support Automation
+<p align="center">
 
-✔ Knowledge Base Search
+<a href="https://github.com/Chen-maker-pen/nexus">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Chen-maker-pen&repo=nexus&theme=chartreuse-dark"/>
+</a>
 
-✔ Business Workflow Integration
-
----
-
-## 📊 Chinese Quotation Converter
-
-Smart quotation conversion platform.
-
-### Key Features
-
-✔ Excel Processing
-
-✔ Automated Data Conversion
-
-✔ Editable Output Interface
-
-✔ Business Workflow Optimization
+</p>
 
 ---
 
-## 🌌 NEXUS AI
-
-Future Career Operating System.
-
-### Vision
-
-Connecting talent and opportunity through artificial intelligence.
-
-### Features
-
-✔ AI Career Matching
-
-✔ Skills Assessment
-
-✔ Resume Intelligence
-
-✔ Career Roadmapping
-
----
-
-## 🏠 AI Interior Design Assistant
-
-AI-powered interior design recommendation platform.
-
-### Features
-
-✔ Design Suggestions
-
-✔ Product Matching
-
-✔ Budget Estimation
-
-✔ Customer Consultation
-
----
-
-# ⚙️ Technology Stack
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,cs"/>
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue"/>
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mysql"/>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,electron"/>
-
+# ⚙️ Tech Stack
+<div>
+ Languages 
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,c,cs"/> 
+    <br><br>
+ Frontend 
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue"/> 
+    <br><br>
+Backend 
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mysql"/>
+    <br><br>
+Tools 
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,electron"/> 
 </div>
 
 ---
 
 # 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chen-maker-pen&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chen-maker-pen&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chen-maker-pen&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chen-maker-pen&layout=compact&theme=chartreuse-dark&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
 # 🔥 Contribution Streak
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chen-maker-pen&theme=tokyonight&hide_border=true"/>
-
-</div>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chen-maker-pen&theme=chartreuse-dark&hide_border=true"/>
+</p>
 
 ---
 
 # 📈 Activity Graph
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chen-maker-pen&theme=github-compact"/>
-
-</div>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chen-maker-pen&bg_color=020617&color=00FFB3&line=00FFB3&point=FFFFFF&hide_border=true"/>
+</p>
 
 ---
 
-# 🏅 Achievement Wall
+# 🏆 Achievements
 
-<div align="center">
-
+<p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Chen-maker-pen&theme=algolia&no-frame=true&column=4"/>
-
-</div>
-
----
-
-# 📋 Engineering Metrics
-
-<div align="center">
-
-| Metric                 | Value      |
-| ---------------------- | ---------- |
-| 🤖 AI Projects         | 5+         |
-| 💻 Software Projects   | 15+        |
-| 📚 Technologies        | 20+        |
-| 🚀 Active Repositories | 30+        |
-| 🌱 Learning Focus      | AI & Cloud |
-
-</div>
-
----
-
-# 🏗 Software Architecture Mindset
-
-```text
-Customer
-    │
-    ▼
-Frontend
-    │
-    ▼
-Backend API
-    │
-    ▼
-Database
-    │
-    ▼
-AI Services
-    │
-    ▼
-Business Logic
-```
-
----
-
-# 🎯 2026 Roadmap
-
-* [x] Web Development
-* [x] Database Systems
-* [x] AI Chatbot Development
-* [x] Business Automation
-* [ ] Machine Learning
-* [ ] React Native
-* [ ] AWS Certification
-* [ ] Open Source Contributions
-* [ ] System Design Mastery
+</p>
 
 ---
 
@@ -262,28 +129,29 @@ Business Logic
 
 ## MOCOF
 
-### IT Support
+**IT Support**
 
-* AI Chatbot Implementation
-* Technical Support
+* Workflow Automation
 * Website Maintenance
-* Business Process Automation
+* Customer Support Solutions
+* Internal Software Systems
+* Technical Troubleshooting
 
 ---
 
 ## Mandalay Technological University
 
-### Library Assistant
+**Library Assistant**
 
 * Resource Management
 * Information Organization
-* Student Support
+* Student Support Services
 
 ---
 
-# 🌍 Connect With Me
+# 🌐 Connect With Me
 
-<div align="center">
+<p align="center">
 
 <a href="https://github.com/Chen-maker-pen">
 <img src="https://skillicons.dev/icons?i=github"/>
@@ -294,27 +162,29 @@ Business Logic
 </a>
 
 <a href="https://chit-naing-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-00FFB3?style=for-the-badge&logo=vercel&logoColor=black"/>
 </a>
 
-</div>
+</p>
 
 ---
 
 # 🐍 Contribution Snake
 
-```md
-![Snake animation](https://github.com/Chen-maker-pen/Chen-maker-pen/blob/output/github-contribution-grid-snake.svg)
-```
+<p align="center">
+<img src="https://github.com/Chen-maker-pen/Chen-maker-pen/blob/output/github-contribution-grid-snake.svg"/>
+</p>
 
 ---
 
-<div align="center">
+# 💡 Quote
 
-### "Building AI Solutions That Solve Real Business Problems"
+> "Great software is built one thoughtful decision at a time."
 
-⭐ Thanks for visiting my profile!
+---
 
-</div>
+<p align="center">
+⭐ Thanks for visiting my profile.
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0F172A,50:1E3A8A,100:3B82F6"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:020617,50:0F172A,100:00FFB3"/>
